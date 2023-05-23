@@ -1,0 +1,15 @@
+D:\CsharpLesson\HW8CSHARP\All tasks\obj\Debug\net6.0\All tasks.csproj.AssemblyReference.cache
+D:\CsharpLesson\HW8CSHARP\All tasks\obj\Debug\net6.0\All tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpLesson\HW8CSHARP\All tasks\obj\Debug\net6.0\All tasks.AssemblyInfoInputs.cache
+D:\CsharpLesson\HW8CSHARP\All tasks\obj\Debug\net6.0\All tasks.AssemblyInfo.cs
+D:\CsharpLesson\HW8CSHARP\All tasks\obj\Debug\net6.0\All tasks.csproj.CoreCompileInputs.cache
+D:\CsharpLesson\HW8CSHARP\All tasks\bin\Debug\net6.0\All tasks.exe
+D:\CsharpLesson\HW8CSHARP\All tasks\bin\Debug\net6.0\All tasks.deps.json
+D:\CsharpLesson\HW8CSHARP\All tasks\bin\Debug\net6.0\All tasks.runtimeconfig.json
+D:\CsharpLesson\HW8CSHARP\All tasks\bin\Debug\net6.0\All tasks.dll
+D:\CsharpLesson\HW8CSHARP\All tasks\bin\Debug\net6.0\All tasks.pdb
+D:\CsharpLesson\HW8CSHARP\All tasks\obj\Debug\net6.0\All tasks.dll
+D:\CsharpLesson\HW8CSHARP\All tasks\obj\Debug\net6.0\refint\All tasks.dll
+D:\CsharpLesson\HW8CSHARP\All tasks\obj\Debug\net6.0\All tasks.pdb
+D:\CsharpLesson\HW8CSHARP\All tasks\obj\Debug\net6.0\All tasks.genruntimeconfig.cache
+D:\CsharpLesson\HW8CSHARP\All tasks\obj\Debug\net6.0\ref\All tasks.dll
